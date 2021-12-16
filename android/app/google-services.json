@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "923213746216",
+    "project_id": "overtracker-1337",
+    "storage_bucket": "overtracker-1337.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923213746216:android:7bf1c3b551fdf736a4651d",
+        "android_client_info": {
+          "package_name": "com.oneappsync.overtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923213746216-ts0c0mp1b0dbb3re3dna76e2rjc1ak9n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oneappsync.overtracker",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "923213746216-6955pug0onh5hkq071eg81sviat2h70v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqeNEX9H-wHa9by7qWfbwxSy_HrEudfbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923213746216-6955pug0onh5hkq071eg81sviat2h70v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "923213746216-dgbdnsdf51ov48fsgio834sq2jee4dta.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oneappsync.overtracker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
